@@ -1,4 +1,4 @@
-#Dicisplina PR1M1 - Programação I
+# Dicisplina PR1M1 - Programação I
 
 Repositório de arquivos para a disciplina PR1M1 do Curso Técnico de Mecatrônica do IFSP - Campus Bragança Paulista.
 
